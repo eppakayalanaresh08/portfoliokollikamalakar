@@ -64,9 +64,7 @@ const Footer: React.FC = () => {
           <p className="text-neutral-500 text-sm">
             &copy; {new Date().getFullYear()} Kollikamalakar. All rights reserved.
           </p>
-          {/* <p className="text-neutral-500 text-sm flex items-center gap-1 mt-4 md:mt-0">
-            Made with <Heart size={14} className="text-red-500" /> for creativity
-          </p> */}
+          
         </div>
       </div>
     </footer>

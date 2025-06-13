@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 tracking-tight">
           <span className="block">Kolli</span>
           <span className="block mt-2 bg-gradient-to-r from-green-400 to-emerald-600 text-transparent bg-clip-text">
-          kaMalakar
+          Kamalakar
           </span>
         </h1>
         <p className="text-xl md:text-2xl text-neutral-300 mb-8 max-w-2xl mx-auto">

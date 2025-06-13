@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           {/* Logo and Info */}
           <div className="space-y-4">
             <div className="flex items-center gap-2">
-              <span className="text-2xl font-bold text-green-500">KM</span>
+              <span className="text-2xl font-bold text-green-500">KK</span>
               <span className="text-xl font-medium">Kollikamalakar</span>
             </div>
             <p className="text-neutral-400 max-w-xs">
